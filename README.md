@@ -16,7 +16,7 @@ Script que sirve para enviar mensajes de correo electronico desde postgres y pyt
 
 ```
 
-select sendEmail('abaez@esri.co','asunto del mensaje','Funcion de prueba')
+select sendEmail('someoene@mail.co','asunto del mensaje','Funcion de prueba')
 
 
 ```
